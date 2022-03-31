@@ -3,4 +3,8 @@
 
 Objetivos
 
-	Este trabalho objetiva desenvolver um programa computacional que colabore com pré-diagnóstico da Covid-19 comparando-a com outras duas doenças que possuem sintomas similares. Ressaltamos que o programa não possui o objetivo de determinar casos de Covid-19 ou mesmo diagnosticar definitivamente a doença.
+Este trabalho objetiva desenvolver um programa computacional que 
+colabore com pré-diagnóstico da Covid-19 comparando-a com outras 
+duas doenças que possuem sintomas similares. Ressaltamos que o 
+programa não possui o objetivo de determinar casos de Covid-19 ou 
+mesmo diagnosticar definitivamente a doença.
